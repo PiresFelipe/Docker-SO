@@ -34,4 +34,3 @@ if [[ $choice == "s" || $choice == "S" ]]; then
 else
     echo "Agora para rodar o docker é necessário o sudo"
 fi
-
